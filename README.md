@@ -1,9 +1,7 @@
 # Pearcleaner
 
-本仓库是 [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) 的个人 fork。下方保留上游项目说明、署名及许可；上游网站、发布包和维护状态不代表本 fork 已构建、签名或发布对应版本。
-
 ### Website
-The upstream maintainer identifies https://itsalin.com as the official website. Anything else offering Pearcleaner downloads is either a scam or not affiliated with me.
+The only legitimate website owned by me is https://itsalin.com. Anything else offering Pearcleaner downloads is either a scam or not affiliated with me.
 More details [HERE](https://www.reddit.com/r/macapps/comments/1ucstzy/psa_pearcleanercom_is_a_fake_site_pushing_macos/).
 
 ### Project Status: On Hold
@@ -128,7 +126,7 @@ If you are able to contribute to translations for the app, please see this discu
 - Much appreciation to [Freemacsoft's AppCleaner](https://freemacsoft.net/appcleaner/) and [Sun Knudsen's app-cleaner script](https://github.com/sunknudsen/guides/tree/main/archive/how-to-clean-uninstall-macos-apps-using-appcleaner-open-source-alternative) for the inspiration
 - [DharsanB](https://github.com/dharsanb) for sponsoring my Apple Developer account
 
-## Other apps by the upstream author
+## Some of my apps
 
 [Pearcleaner](https://github.com/alienator88/Pearcleaner) - An opensource app cleaner with privacy in mind
 
